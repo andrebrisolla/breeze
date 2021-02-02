@@ -1,0 +1,20 @@
+Banco de Dados
+
+- users ( tabela de usuários logados via LDAP )
+  id
+  user
+  status
+  token
+  
+
+Python | Flask
+
+classes:
+	
+- User
+  set_login
+  set_logout
+  get_token
+  
+
+
